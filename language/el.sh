@@ -9,7 +9,6 @@ FLUXIONInterfaceAllocatedNotice="${CGrn}Επιτυχής δέσμευση interf
 FLUXIONInterfaceAllocationFailedError="${CRed}Ανεπιτυχής δέσμευση interface!"
 FLUXIONReidentifyingInterface="Μετονομασία interface."
 FLUXIONUnblockingWINotice="Απεμπλοκή όλων των ασύρματων interfaces..."
-#FLUXIONFindingExtraWINotice="Έλεγχος για εξωτερικές ασύρματες διεπαφές,.."
 FLUXIONRemovingExtraWINotice="Αφαίρεση εξωτερικων ασύρματων interfaces..."
 FLUXIONFindingWINotice="Έλεγχος για διαθέσιμα ασύρματα interfaces..."
 FLUXIONSelectedBusyWIError="Το επιλεγμένο ασύρματο interface φαίνεται να χρησιμοποιείται αυτή τη στιγμή!"

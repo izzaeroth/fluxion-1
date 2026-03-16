@@ -34,17 +34,6 @@ function interface_list_all() {
   InterfaceListAll=("${InterfaceListAll[@]//\/sys\/class\/net\//}")
 }
 
-# Returns an array of interfaces pertaining to a physical device.
-function interface_list_real() {
-  InterfaceListReal=()
-  interface_list_all
-  local __interface_list_real__candidate
-  for __interface_list_real__candidate in "${InterfaceListAll[@]}"; do
-    if interface_is_real $__interface_list_real__candidate; then InterfaceListReal+=("$__interface_list_real__candidate")
-    fi
-  done
-}
-
 # Returns an array of interfaces pertaining to a wireless device.
 function interface_list_wireless() {
   InterfaceListWireless=()

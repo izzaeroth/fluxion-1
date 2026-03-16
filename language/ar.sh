@@ -9,7 +9,6 @@ FLUXIONInterfaceAllocatedNotice="${CGrn}تم تخصيص بطاقة الشبكة 
 FLUXIONInterfaceAllocationFailedError="${CRed}خطأ في تخصيص بطاقة الشبكة!"
 FLUXIONReidentifyingInterface="إعادة تسمية البطاقة."
 FLUXIONUnblockingWINotice="إلغاء الإعترا على جميع بطاقات الشبكات اللاسلكية."
-#FLUXIONFindingExtraWINotice="بحث عن بطاقات الشبكات اللاسلكية الخارجية ..."
 FLUXIONRemovingExtraWINotice="إزالة بطاقات الشبكات اللاسلكية الخارجية..."
 FLUXIONFindingWINotice="بحث عن بطاقات الشبكات اللاسلكية المتوفرة..."
 FLUXIONSelectedBusyWIError="بطاقة الشبكة اللاسلكية المحددة قيد الاستخدام حاليا على ما يبدو!"
